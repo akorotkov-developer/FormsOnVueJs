@@ -37,5 +37,6 @@ $APPLICATION->IncludeComponent("bitrix:menu", "bottom", array(
 		</div>
 		<div id="footer-design"><?=GetMessage("FOOTER_DISIGN")?></div>
 	</div>
+
 </body>
 </html>
